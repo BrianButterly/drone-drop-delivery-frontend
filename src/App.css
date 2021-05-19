@@ -9,7 +9,7 @@ img {
 
 div.signup {
   display: block;
-  margin-top: 100px;
+  margin-top: 20px;
 }
 
 .signup {
@@ -17,7 +17,7 @@ div.signup {
   margin-left: auto;
   margin-right: auto;
   text-align: left;
-  width: 50%;
+  width: 70%;
   background-color: #f2f2f2;
   padding: 20px;
   border-radius: 5px;

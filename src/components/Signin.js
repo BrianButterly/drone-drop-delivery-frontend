@@ -1,11 +1,9 @@
 import React from "react";
 
 class Signin extends React.Component {
-    render() {
-        return (
-            <h1>Signin page</h1>
-        )
-    }
+  render() {
+    return <h2>Signin page</h2>;
+  }
 }
 
-export default Signin
+export default Signin;
